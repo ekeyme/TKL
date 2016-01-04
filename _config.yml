@@ -6,11 +6,11 @@ top_saying:
 - content: <i style="background:#1E1D1D;color:#fff">William Graham Sumner, 1918. The forgotten man.</i>
 bottom_saying: 多写一点，想深一点。
 # Content
-excerpt_link: Read More
+#excerpt_link: Read More
 
-rss: /atom.xml
+#rss: /atom.xml
 
-highlightjs: vs
+#highlightjs: vs
 
 #Works
 #works:
@@ -20,19 +20,19 @@ highlightjs: vs
 #  works_url: /atom.xml
 
 #duoshuo name
-duoshuo: blogekeyme
+#duoshuo: blogekeyme
 
 # Miscellaneous
-github: https://github.com/ekeyme
+#github: https://github.com/ekeyme
 #twitter: https://twitter.com/ekeyme
 #facebook: https://www.facebook.com/ekeyme
 #google: https://google.com/ekeyme
 #weibo: http://weibo.com/ekeyme
 
 #about  timeline
-timeline:
-- num: 1
-  word: 2015- 生物信息工程师，广州复能基因
+#timeline:
+#- num: 1
+#  word: 2015- 生物信息工程师，广州复能基因
 
 #Links
 #links:
